@@ -1,7 +1,6 @@
 Hi, I’m Nikolay Klimov (aka @myxo) 👋
 
 My main interests are (without any specific order):
-
 * Low level systems
 * C++ (mostly), Rust
 * Distributed systems, databases internal

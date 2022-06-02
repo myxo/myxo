@@ -1,8 +1,8 @@
 Hi, I’m Nikolay Klimov (aka @myxo) 👋
 
 My main interests are (without any specific order):
-* Low level systems
-* C++ (mostly), Rust
+* Low level systems (whatever this means)
+* C++ (mostly), go, rust
 * Distributed systems, databases internal
 * Computer and OS architecture
 * Marine industry (5+ years of writing navigational software for ships)
